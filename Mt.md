@@ -104,3 +104,12 @@ Tags: Home
     - Geometric Algebra:
     PDF: [1](https://bivector.net/PGAdyn.pdf), [2](https://arxiv.org/pdf/1901.05873.pdf), [3](https://bivector.net/PGADYN.html)
     Website: [1](https://geometricalgebratutorial.com/), [2](http://bivector.net)
+    - [Mega](https://mega.nz/folder/zyhnQbIQ#JSQa1-PKRgTbs34s5HuP_Q)
+
+- Current
+    - Classical Dynamics
+    - Tensor Revisited
+    - Bayesian Statistics
+    - Quantum Mechanics
+    - Python
+    - zstatistics
